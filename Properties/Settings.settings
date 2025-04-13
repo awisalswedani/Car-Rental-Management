@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Car_Rental_Management_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=116.202.175.92;uid=tmpUser;pwd=qG2~dv00;Database=tmpCarMangDB;Connect Timeout=3000;</Value>
+    </Setting>
+    <Setting Name="Car_Rental_SystemConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=DESKTOP-JP4JV6V;uid=sa;pwd=Abc@123;Database=CarRentalSystems;Connect Timeout=3000;&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=DESKTOP-JP4JV6V;uid=sa;pwd=Abc@123;Database=CarRentalSystems;Connect Timeout=3000;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
